@@ -1,0 +1,136 @@
+Room,External_Temperature,External_Lighting,External_Noise,Internal_Temperature,Internal_Lighting,Internal_Music
+Living Room,low,low,low,26,90,2
+Living Room,low,low,medium,26,90,3
+Living Room,low,low,high,26,90,5
+Living Room,low,medium,low,26,70,2
+Living Room,low,medium,medium,26,70,3
+Living Room,low,medium,high,26,70,5
+Living Room,low,high,low,26,50,2
+Living Room,low,high,medium,26,50,3
+Living Room,low,high,high,26,50,5
+Living Room,medium,low,low,24,90,2
+Living Room,medium,low,medium,24,90,3
+Living Room,medium,low,high,24,90,5
+Living Room,medium,medium,low,24,70,2
+Living Room,medium,medium,medium,24,70,3
+Living Room,medium,medium,high,24,70,5
+Living Room,medium,high,low,24,50,2
+Living Room,medium,high,medium,24,50,3
+Living Room,medium,high,high,24,50,5
+Living Room,high,low,low,22,90,2
+Living Room,high,low,medium,22,90,3
+Living Room,high,low,high,22,90,5
+Living Room,high,medium,low,22,70,2
+Living Room,high,medium,medium,22,70,3
+Living Room,high,medium,high,22,70,5
+Living Room,high,high,low,22,50,2
+Living Room,high,high,medium,22,50,3
+Living Room,high,high,high,22,50,5
+Bedroom,low,low,low,24,60,1
+Bedroom,low,low,medium,24,60,2
+Bedroom,low,low,high,24,60,4
+Bedroom,low,medium,low,24,40,1
+Bedroom,low,medium,medium,24,40,2
+Bedroom,low,medium,high,24,40,4
+Bedroom,low,high,low,24,20,1
+Bedroom,low,high,medium,24,20,2
+Bedroom,low,high,high,24,20,4
+Bedroom,medium,low,low,22,60,1
+Bedroom,medium,low,medium,22,60,2
+Bedroom,medium,low,high,22,60,4
+Bedroom,medium,medium,low,22,40,1
+Bedroom,medium,medium,medium,22,40,2
+Bedroom,medium,medium,high,22,40,4
+Bedroom,medium,high,low,22,20,1
+Bedroom,medium,high,medium,22,20,2
+Bedroom,medium,high,high,22,20,4
+Bedroom,high,low,low,20,60,1
+Bedroom,high,low,medium,20,60,2
+Bedroom,high,low,high,20,60,4
+Bedroom,high,medium,low,20,40,1
+Bedroom,high,medium,medium,20,40,2
+Bedroom,high,medium,high,20,40,4
+Bedroom,high,high,low,20,20,1
+Bedroom,high,high,medium,20,20,2
+Bedroom,high,high,high,20,20,4
+Kitchen,low,low,low,22,100,4
+Kitchen,low,low,medium,22,100,5
+Kitchen,low,low,high,22,100,7
+Kitchen,low,medium,low,22,80,4
+Kitchen,low,medium,medium,22,80,5
+Kitchen,low,medium,high,22,80,7
+Kitchen,low,high,low,22,60,4
+Kitchen,low,high,medium,22,60,5
+Kitchen,low,high,high,22,60,7
+Kitchen,medium,low,low,20,100,4
+Kitchen,medium,low,medium,20,100,5
+Kitchen,medium,low,high,20,100,7
+Kitchen,medium,medium,low,20,80,4
+Kitchen,medium,medium,medium,20,80,5
+Kitchen,medium,medium,high,20,80,7
+Kitchen,medium,high,low,20,60,4
+Kitchen,medium,high,medium,20,60,5
+Kitchen,medium,high,high,20,60,7
+Kitchen,high,low,low,18,100,4
+Kitchen,high,low,medium,18,100,5
+Kitchen,high,low,high,18,100,7
+Kitchen,high,medium,low,18,80,4
+Kitchen,high,medium,medium,18,80,5
+Kitchen,high,medium,high,18,80,7
+Kitchen,high,high,low,18,60,4
+Kitchen,high,high,medium,18,60,5
+Kitchen,high,high,high,18,60,7
+Bathroom,low,low,low,23,80,3
+Bathroom,low,low,medium,23,80,4
+Bathroom,low,low,high,23,80,6
+Bathroom,low,medium,low,23,60,3
+Bathroom,low,medium,medium,23,60,4
+Bathroom,low,medium,high,23,60,6
+Bathroom,low,high,low,23,40,3
+Bathroom,low,high,medium,23,40,4
+Bathroom,low,high,high,23,40,6
+Bathroom,medium,low,low,21,80,3
+Bathroom,medium,low,medium,21,80,4
+Bathroom,medium,low,high,21,80,6
+Bathroom,medium,medium,low,21,60,3
+Bathroom,medium,medium,medium,21,60,4
+Bathroom,medium,medium,high,21,60,6
+Bathroom,medium,high,low,21,40,3
+Bathroom,medium,high,medium,21,40,4
+Bathroom,medium,high,high,21,40,6
+Bathroom,high,low,low,19,80,3
+Bathroom,high,low,medium,19,80,4
+Bathroom,high,low,high,19,80,6
+Bathroom,high,medium,low,19,60,3
+Bathroom,high,medium,medium,19,60,4
+Bathroom,high,medium,high,19,60,6
+Bathroom,high,high,low,19,40,3
+Bathroom,high,high,medium,19,40,4
+Bathroom,high,high,high,19,40,6
+Workout Area,low,low,low,20,100,7
+Workout Area,low,low,medium,20,100,8
+Workout Area,low,low,high,20,100,10
+Workout Area,low,medium,low,20,90,7
+Workout Area,low,medium,medium,20,90,8
+Workout Area,low,medium,high,20,90,10
+Workout Area,low,high,low,20,70,7
+Workout Area,low,high,medium,20,70,8
+Workout Area,low,high,high,20,70,10
+Workout Area,medium,low,low,18,100,7
+Workout Area,medium,low,medium,18,100,8
+Workout Area,medium,low,high,18,100,10
+Workout Area,medium,medium,low,18,90,7
+Workout Area,medium,medium,medium,18,90,8
+Workout Area,medium,medium,high,18,90,10
+Workout Area,medium,high,low,18,70,7
+Workout Area,medium,high,medium,18,70,8
+Workout Area,medium,high,high,18,70,10
+Workout Area,high,low,low,16,100,7
+Workout Area,high,low,medium,16,100,8
+Workout Area,high,low,high,16,100,10
+Workout Area,high,medium,low,16,90,7
+Workout Area,high,medium,medium,16,90,8
+Workout Area,high,medium,high,16,90,10
+Workout Area,high,high,low,16,70,7
+Workout Area,high,high,medium,16,70,8
+Workout Area,high,high,high,16,70,10
